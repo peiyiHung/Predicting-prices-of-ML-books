@@ -1,1 +1,1 @@
-# Predicting-prices-of-ML-books
+# Predicting prices of ML books
