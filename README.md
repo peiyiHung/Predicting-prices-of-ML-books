@@ -6,4 +6,4 @@ This project consists of three sections
 * Clean the data we scrapped from the website.
   - notebook: [Cleaning1](https://github.com/peiyiHung/Predicting-prices-of-ML-books/blob/main/Cleaning1.ipynb), [Cleaning2](https://github.com/peiyiHung/Predicting-prices-of-ML-books/blob/main/Cleaning2.ipynb), [Cleaning3](https://github.com/peiyiHung/Predicting-prices-of-ML-books/blob/main/Cleaning1.ipynb)
 * Explore the data and Build ML models
-  - notebook: 
+  - notebook: [Predicting prices of Machine Learning books](https://github.com/peiyiHung/Predicting-prices-of-ML-books/blob/main/Predicting%20prices%20of%20Machine%20Learning%20Books.ipynb)
