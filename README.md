@@ -1,6 +1,6 @@
 # Predicting prices of ML books
 
-This project consists of three sections
+This project consists of three parts:
 * Scraping prices of ML books from [Book Depository](https://www.bookdepository.com/).
   - notebook: [Scraping the Web](https://github.com/peiyiHung/Predicting-prices-of-ML-books/blob/main/Scaping%20the%20web.ipynb)
 * Clean the data we scrapped from the website.
